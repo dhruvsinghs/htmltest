@@ -211,7 +211,7 @@
      "Deny",
      "Disabled"
     ],
-    "defaultValue": "Audit"
+    "defaultValue": "Deny"
    },
    "effect-4fa4b6c0-31ca-4c0d-b10d-24b96f62a751": {
     "type": "String",
@@ -224,7 +224,7 @@
      "Deny",
      "Disabled"
     ],
-    "defaultValue": "Audit"
+    "defaultValue": "Deny"
    },
    "effect-34c877ad-507e-4c82-993e-3452a6e0ad3c": {
     "type": "String",
@@ -237,7 +237,7 @@
      "Deny",
      "Disabled"
     ],
-    "defaultValue": "Audit"
+    "defaultValue": "Deny"
    },
    "effect-2a1a9cdf-e04d-429a-8416-3bfb72a1b26f": {
     "type": "String",
@@ -250,7 +250,7 @@
      "Deny",
      "Disabled"
     ],
-    "defaultValue": "Audit"
+    "defaultValue": "Deny"
    },
    "effect-c9d007d0-c057-4772-b18c-01e546713bcd": {
     "type": "String",
@@ -263,7 +263,7 @@
      "Deny",
      "Disabled"
     ],
-    "defaultValue": "Audit"
+    "defaultValue": "Deny"
    },
    "effect-6fac406b-40ca-413b-bf8e-0bf964659c25": {
     "type": "String",
@@ -480,7 +480,7 @@
      "Deny",
      "Disabled"
     ],
-    "defaultValue": "Audit"
+    "defaultValue": "Deny"
    },
    "effect-ac01ad65-10e5-46df-bdd9-6b0cad13e1d2": {
     "type": "String",
@@ -493,7 +493,7 @@
      "Deny",
      "Disabled"
     ],
-    "defaultValue": "Audit"
+    "defaultValue": "Deny"
    },
    "effect-fbb99e8e-e444-4da0-9ff1-75c92f5a85b2": {
     "type": "String",
@@ -817,7 +817,7 @@
      "Deny",
      "Disabled"
     ],
-    "defaultValue": "Audit"
+    "defaultValue": "Deny"
    },
    "approvedExtensions-c0e996f8-39cf-4af9-9f45-83fbde810432": {
     "type": "Array",
@@ -876,7 +876,7 @@
      "Deny",
      "Disabled"
     ],
-    "defaultValue": "Audit"
+    "defaultValue": "Deny"
    },
    "effect-98728c90-32c7-4049-8429-847dc0f4fe37": {
     "type": "String",
@@ -889,7 +889,7 @@
      "Deny",
      "Disabled"
     ],
-    "defaultValue": "Audit"
+    "defaultValue": "Deny"
    },
    "effect-0b60c0b2-2dc2-4e1c-b5c9-abbed971de53": {
     "type": "String",
@@ -902,7 +902,7 @@
      "Deny",
      "Disabled"
     ],
-    "defaultValue": "Audit"
+    "defaultValue": "Deny"
    },
    "effect-ac4a19c2-fa67-49b4-8ae5-0b2e78c49457": {
     "type": "String",
